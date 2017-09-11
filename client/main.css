@@ -1,0 +1,19 @@
+
+html {
+  font-size: 100px;
+}
+
+body {
+  margin: 0 auto !important;
+  font-family: "Hiragino Sans GB", 微软雅黑, "Microsoft YaHei", 宋体, SimSun, sans-serif !important;
+  font-size: 12px;
+  line-height: 1.5;
+  width: 100%;
+  max-width: 50rem;
+}
+
+#app {
+  position: relative;
+  height: 100%;
+  width: 100%;
+}

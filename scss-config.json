@@ -1,0 +1,6 @@
+{
+  "includePaths": [
+    "{}/client/assets/style/"
+  ],
+  "data": "@import 'base.scss';@import 'common.scss';@import 'mixin.scss';"
+}
